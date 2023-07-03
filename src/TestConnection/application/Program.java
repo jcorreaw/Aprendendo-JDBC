@@ -1,4 +1,4 @@
-package application;
+package TestConnection.application;
 
 import db.DB;
 
